@@ -29,15 +29,9 @@ protected override void OnDetachingFrom(SfDataGrid dataGrid)
  ```
  
 
-[1:02 PM] Sudarsan Muthuselvan
-
 [View sample in GitHub](https://github.com/SyncfusionExamples/How-to-navigate-to-an-URL-when-tapping-on-a-cell-in-.NET-MAUI-DataGrid-SfDataGrid)
 
- 
-
 Take a moment to explore this [documentation](https://help.syncfusion.com/maui/datagrid/overview), where you can find more information about Syncfusion .NET MAUI DataGrid (SfDataGrid) with code examples. Please refer to this [link](https://www.syncfusion.com/maui-controls/maui-datagrid) to learn about the essential features of Syncfusion .NET MAUI DataGrid (SfDataGrid).
-
- 
 
 ##### Conclusion
 
