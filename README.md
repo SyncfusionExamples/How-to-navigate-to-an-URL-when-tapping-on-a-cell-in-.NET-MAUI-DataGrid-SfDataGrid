@@ -1,4 +1,4 @@
-# How to navigate to an URL when tapping on a cell in .NET-MAUI-DataGrid-SfDataGrid
+# How to navigate to an URL when tapping on a cell in .NET MAUI DataGrid SfDataGrid
 [SfDataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid) enables you to navigate to a URL upon tapping a grid cell using the [CellTapped](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.DataGrid.SfDataGrid.html#Syncfusion_Maui_DataGrid_SfDataGrid_CellTapped) event. The [DataGridCellTappedEventArgs](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.DataGrid.DataGridCellTappedEventArgs.html) provides the 'RowColumnIndex' of the tapped cell, allowing you to navigate to the desired URL based on the argument values.
 
 Refer to the code example below to navigate to a URL when the first cell of the record is tapped.
