@@ -24,7 +24,6 @@ namespace SfDataGridSample.Behaviors
             {
                 Uri uri = new Uri("https://help.syncfusion.com/");
                 Launcher.TryOpenAsync(uri);
-                //Device.OpenUri(uri);
             }
         }
 
